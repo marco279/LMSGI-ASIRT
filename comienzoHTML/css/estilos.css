@@ -1,22 +1,14 @@
 h1{
-<<<<<<< HEAD
     color:red;
     text-align: center;
 }
-=======
-    color: red;
-}
 
->>>>>>> 441a8fce5cb5e76898b0d685628bca46971c180e
 p{
     background-color: rgb(53, 170, 43);
 }
 
 h2{
-<<<<<<< HEAD
     border: 1px;
     margin: 5px;
-=======
     text-decoration: dotted;
->>>>>>> 441a8fce5cb5e76898b0d685628bca46971c180e
 }
